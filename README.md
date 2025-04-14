@@ -98,7 +98,7 @@
         <input type="password" id="password" name="password" required><br><br>
 
         <input type="submit" value="Register">
-    </form>
+    </form>h
 
 </body>
 </html>
